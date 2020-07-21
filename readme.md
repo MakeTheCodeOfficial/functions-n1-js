@@ -79,7 +79,7 @@ El programa de pseudocódigo que usaré en este caso, es PSeInt. Primero les mos
 ### Scope Global
 Como ven no es mucha información. Sólo se declara la variable *counter* y la creación de la función *oncl().*
 
-![Imagen de referencia. #1](https://raw.githubusercontent.com/usuario/repositorio/master/img/global_scope.png)
+![Imagen de referencia. #1](https://raw.githubusercontent.com/MakeTheCodeOfficial/repositorio/master/img/global_scope.png)
 
 ### Scope de "oncl()"
 Una vez llamada la función, declarará otra variable llamada *valor.* 
@@ -100,7 +100,7 @@ Es el contador, la variable está mal traducida. Sin embargo, esta variable no e
 Luego llega la parte que es la comprobación final para poder encender el bombillo, se utiliza la condición *if,* en español: *si.* La condición aclara que si el módulo 2 de *value* es igual a cero, entonces devolverá como verdadero, encendiendo el bombilo; mientras que si no es igual a cero, entonces devolverá como falso, apagando el bombillo.
 
 
-![Imagen de referencia #2](https://raw.githubusercontent.com/usuario/repositorio/master/img/function_scope.png)
+![Imagen de referencia #2](https://raw.githubusercontent.com/MakeTheCodeOfficial/repositorio/master/img/function_scope.png)
 
 Espero les haya gustado, de mi parte es todo. Muchas gracias por su tiempo.
 
