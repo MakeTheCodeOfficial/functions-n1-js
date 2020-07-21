@@ -1,0 +1,12 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#frame{
+	display: block;
+	text-align: center;
+}
+img{
+	padding: 20px;
+	margin: 10px;
+}
